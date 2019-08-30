@@ -33,7 +33,7 @@
 	"sap.ui5": {
 		"flexEnabled": false,
 		"rootView": {
-			"viewName": "ovly.telas.view.View3",
+			"viewName": "ovly.telas.view.View2",
 			"type": "XML",
 			"async": true,
 			"id": "View1"
